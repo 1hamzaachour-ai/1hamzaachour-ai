@@ -50,42 +50,62 @@ class HamzaAchour extends Developer {
 
 ## 🛠️ Tech Stack
 
-**📊 Data Analysis & Visualization**
+### 📊 Data Analysis & Visualization
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,r,tensorflow,pytorch&theme=dark" />
+  <br/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Seaborn-4C8CBF?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" />
+</div>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-4C8CBF?style=flat-square&logo=python&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+<br/>
 
-**📱 Mobile & App Development**
+### 📱 Mobile & App Development
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio,firebase&theme=dark" />
+</div>
 
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+<br/>
 
-**🤖 AI & Machine Learning**
+### 🤖 AI & Machine Learning
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv&theme=dark" />
+  <br/>
+  <img src="https://img.shields.io/badge/Groq_API-FF6B35?style=flat-square&logo=meta&logoColor=white" />
+  <img src="https://img.shields.io/badge/LLaMA_3.1-0467DF?style=flat-square&logo=meta&logoColor=white" />
+  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
+</div>
 
-![Groq](https://img.shields.io/badge/Groq_API-FF6B35?style=flat-square&logo=meta&logoColor=white)
-![LLaMA](https://img.shields.io/badge/LLaMA_3.1-0467DF?style=flat-square&logo=meta&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+<br/>
 
-**🗺️ Maps & Geospatial**
+### 🗄️ Databases & Backend
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite,docker&theme=dark" />
+</div>
 
-![OpenStreetMap](https://img.shields.io/badge/OpenStreetMap-7EBC6F?style=flat-square&logo=openstreetmap&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite_MBTiles-003B57?style=flat-square&logo=sqlite&logoColor=white)
+<br/>
 
-**⚙️ Tools & Workflow**
+### 🗺️ Maps & Geospatial
+<div align="center">
+  <img src="https://img.shields.io/badge/OpenStreetMap-7EBC6F?style=for-the-badge&logo=openstreetmap&logoColor=white" />
+  <img src="https://img.shields.io/badge/MBTiles_SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Overpass_API-7EBC6F?style=for-the-badge&logo=openstreetmap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flutter_Map-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+</div>
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+<br/>
+
+### ⚙️ Tools & Workflow
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,postman,bash&theme=dark" />
+</div>
 
 ---
 
