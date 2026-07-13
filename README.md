@@ -105,8 +105,9 @@ A complete retail analytics application built for the Tunisian market — TND pr
 <p align="center"><sub><b>Completed · Delivered for ATB Finance (Arab Tunisian Bank)</b></sub></p>
 
 <p align="center">
-  <!-- TODO: Replace with a real demo GIF (e.g. assets/tgap-demo.gif) -->
-  <img src="https://placehold.co/620x350/F6F8FA/0969DA.png?text=T+GAP+%E2%80%94+Shipped+for+ATB+Finance" alt="T GAP demo placeholder" width="100%"/>
+  <a href="https://raw.githubusercontent.com/1hamzaachour-ai/ATB-ATM-LOCATOR-/main/docs/screenshots/home.png"><img src="https://raw.githubusercontent.com/1hamzaachour-ai/ATB-ATM-LOCATOR-/main/docs/screenshots/home.png" alt="T GAP home screen — account overview" width="32%"/></a>
+  <a href="https://raw.githubusercontent.com/1hamzaachour-ai/ATB-ATM-LOCATOR-/main/docs/screenshots/map.png"><img src="https://raw.githubusercontent.com/1hamzaachour-ai/ATB-ATM-LOCATOR-/main/docs/screenshots/map.png" alt="T GAP ATM locator map" width="32%"/></a>
+  <a href="https://raw.githubusercontent.com/1hamzaachour-ai/ATB-ATM-LOCATOR-/main/docs/screenshots/chat.png"><img src="https://raw.githubusercontent.com/1hamzaachour-ai/ATB-ATM-LOCATOR-/main/docs/screenshots/chat.png" alt="T GAP AI assistant chat" width="32%"/></a>
 </p>
 
 A web and mobile application that located every ATB ATM in real time on OpenStreetMap. Shipped with offline-first maps built on MBTiles + SQLite and an integrated AI chatbot answering in Tunisian dialect — my proof that data, maps, and AI belong in the same product.
