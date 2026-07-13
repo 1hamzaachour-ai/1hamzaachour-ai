@@ -11,7 +11,7 @@
 
 # Hamza Achour
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=3000&pause=1000&color=0969DA&center=true&vCenter=true&width=640&height=60&lines=Mobile+%26+Full-Stack+Developer;Flutter+%E2%80%A2+FastAPI+%E2%80%A2+Python+%E2%80%A2+Dart;Building+practical+apps+end+to+end)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=3000&pause=1000&color=0969DA&center=true&vCenter=true&width=640&height=60&lines=Data+Analyst+%26+AI+Developer;Data+%E2%80%A2+AI+%E2%80%A2+Dashboards;Python+%E2%80%A2+Streamlit+%E2%80%A2+Plotly+%E2%80%A2+Gemini;Turning+data+into+decisions)](https://git.io/typing-svg)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=1hamzaachour-ai&style=flat-square&color=0969DA&label=Profile+Views)
 
@@ -23,11 +23,12 @@
 
 ## About Me
 
-I'm a full-stack mobile and web developer based in **Tunisia**, focused on shipping practical, production-ready applications from end to end — polished **Flutter** interfaces on the front, robust **FastAPI + Python** services on the back.
+I'm a data and AI developer based in **Tunisia**. I build analytics products people actually use — interactive **dashboards**, **AI agents** that understand local context, and the data pipelines behind them.
 
-- Currently building **T GAP**, a web & mobile ATM locator developed for **ATB Finance**, and an **AI-powered car advisor** application
-- Experienced with offline-first architectures, geospatial systems (OpenStreetMap, MBTiles), and LLM integration in real products
-- Open to collaborations, freelance work, and challenging full-stack projects
+- Currently focused on **Choufli Data** — a Tunisian retail analytics dashboard featuring *Sami*, an AI business consultant that answers questions about live dashboard data in Tunisian Derja
+- Shipped **T GAP** — a web & mobile ATM locator delivered for **ATB Finance** (Arab Tunisian Bank)
+- Full-stack background (Flutter, FastAPI) for when a data product needs to become an app
+- Open to collaborations and opportunities in data analytics, AI, and BI
 
 ---
 
@@ -35,34 +36,35 @@ I'm a full-stack mobile and web developer based in **Tunisia**, focused on shipp
 
 <sub>*Click any icon to visit the official website.*</sub>
 
-**Languages & Frameworks**
+**Data, AI & Dashboards**
 
 <p>
-  <a href="https://flutter.dev"><img src="https://skillicons.dev/icons?i=flutter" width="48" alt="Flutter"/></a>&nbsp;
-  <a href="https://dart.dev"><img src="https://skillicons.dev/icons?i=dart" width="48" alt="Dart"/></a>&nbsp;
-  <a href="https://www.python.org"><img src="https://skillicons.dev/icons?i=py" width="48" alt="Python"/></a>&nbsp;
-  <a href="https://fastapi.tiangolo.com"><img src="https://skillicons.dev/icons?i=fastapi" width="48" alt="FastAPI"/></a>
+  <a href="https://streamlit.io"><img src="https://img.shields.io/badge/Streamlit-0969DA?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit"/></a>
+  <a href="https://pandas.pydata.org"><img src="https://img.shields.io/badge/Pandas-0969DA?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"/></a>
+  <a href="https://numpy.org"><img src="https://img.shields.io/badge/NumPy-0969DA?style=flat-square&logo=numpy&logoColor=white" alt="NumPy"/></a>
+  <a href="https://plotly.com"><img src="https://img.shields.io/badge/Plotly-0969DA?style=flat-square&logo=plotly&logoColor=white" alt="Plotly"/></a>
+  <a href="https://ai.google.dev"><img src="https://img.shields.io/badge/Google_Gemini-0969DA?style=flat-square&logo=googlegemini&logoColor=white" alt="Google Gemini"/></a>
+  <a href="https://groq.com"><img src="https://img.shields.io/badge/Groq-0969DA?style=flat-square&logoColor=white" alt="Groq"/></a>
+  <a href="https://www.llama.com"><img src="https://img.shields.io/badge/LLaMA_3.1-0969DA?style=flat-square&logo=meta&logoColor=white" alt="Meta LLaMA"/></a>
 </p>
 
-**Databases & Tools**
+**Languages & Backend**
 
 <p>
+  <a href="https://www.python.org"><img src="https://skillicons.dev/icons?i=py" width="48" alt="Python"/></a>&nbsp;
+  <a href="https://fastapi.tiangolo.com"><img src="https://skillicons.dev/icons?i=fastapi" width="48" alt="FastAPI"/></a>&nbsp;
   <a href="https://www.sqlite.org"><img src="https://skillicons.dev/icons?i=sqlite" width="48" alt="SQLite"/></a>&nbsp;
+  <a href="https://flutter.dev"><img src="https://skillicons.dev/icons?i=flutter" width="48" alt="Flutter"/></a>&nbsp;
+  <a href="https://dart.dev"><img src="https://skillicons.dev/icons?i=dart" width="48" alt="Dart"/></a>
+</p>
+
+**Tools**
+
+<p>
   <a href="https://git-scm.com"><img src="https://skillicons.dev/icons?i=git" width="48" alt="Git"/></a>&nbsp;
   <a href="https://github.com"><img src="https://skillicons.dev/icons?i=github" width="48" alt="GitHub"/></a>&nbsp;
   <a href="https://code.visualstudio.com"><img src="https://skillicons.dev/icons?i=vscode" width="48" alt="Visual Studio Code"/></a>&nbsp;
-  <a href="https://developer.android.com/studio"><img src="https://skillicons.dev/icons?i=androidstudio" width="48" alt="Android Studio"/></a>&nbsp;
   <a href="https://www.postman.com"><img src="https://skillicons.dev/icons?i=postman" width="48" alt="Postman"/></a>
-</p>
-
-**AI & Mapping**
-
-<p>
-  <a href="https://groq.com"><img src="https://img.shields.io/badge/Groq-0969DA?style=flat-square&logoColor=white" alt="Groq"/></a>
-  <a href="https://www.llama.com"><img src="https://img.shields.io/badge/LLaMA_3.1-0969DA?style=flat-square&logo=meta&logoColor=white" alt="Meta LLaMA"/></a>
-  <a href="https://ai.google.dev"><img src="https://img.shields.io/badge/Gemini-0969DA?style=flat-square&logo=googlegemini&logoColor=white" alt="Google Gemini"/></a>
-  <a href="https://streamlit.io"><img src="https://img.shields.io/badge/Streamlit-0969DA?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit"/></a>
-  <a href="https://www.openstreetmap.org"><img src="https://img.shields.io/badge/OpenStreetMap-0969DA?style=flat-square&logo=openstreetmap&logoColor=white" alt="OpenStreetMap"/></a>
 </p>
 
 ---
@@ -73,15 +75,41 @@ I'm a full-stack mobile and web developer based in **Tunisia**, focused on shipp
 <tr>
 <td width="50%" valign="top">
 
+<h3 align="center">Choufli Data — Retail Analytics & AI</h3>
+<p align="center"><sub><b>Current focus · Tunisian retail BI dashboard with a Derja-speaking AI consultant</b></sub></p>
+
+<p align="center">
+  <a href="https://github.com/1hamzaachour-ai/choufli-data"><img src="https://raw.githubusercontent.com/1hamzaachour-ai/choufli-data/main/docs/screenshot.png" alt="Choufli Data dashboard screenshot" width="100%"/></a>
+</p>
+
+A complete retail analytics application built for the Tunisian market — TND pricing, real TVA brackets, Ramadan & Aïd seasonality, local payment methods. Features **Sami**, an AI business consultant that answers questions about the live, filtered dashboard data in Tunisian Derja (Arabic script and Arabizi).
+
+<p align="center">
+  <a href="https://www.python.org"><img src="https://skillicons.dev/icons?i=py" width="32" alt="Python"/></a>&nbsp;
+  <a href="https://streamlit.io"><img src="https://img.shields.io/badge/Streamlit-24292F?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit"/></a>
+  <a href="https://plotly.com"><img src="https://img.shields.io/badge/Plotly-24292F?style=flat-square&logo=plotly&logoColor=white" alt="Plotly"/></a>
+  <a href="https://ai.google.dev"><img src="https://img.shields.io/badge/Gemini-24292F?style=flat-square&logo=googlegemini&logoColor=white" alt="Google Gemini"/></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/1hamzaachour-ai/choufli-data"><img src="https://img.shields.io/badge/Repository-24292F?style=for-the-badge&logo=github&logoColor=white" alt="Repository"/></a>
+  &nbsp;
+  <!-- TODO: point at the Streamlit Cloud URL once deployed -->
+  <a href="https://github.com/1hamzaachour-ai/choufli-data"><img src="https://img.shields.io/badge/Live_Demo-0969DA?style=for-the-badge&logoColor=white" alt="Live demo"/></a>
+</p>
+
+</td>
+<td width="50%" valign="top">
+
 <h3 align="center">T GAP — ATM Locator</h3>
-<p align="center"><sub><b>Developed for ATB Finance (Arab Tunisian Bank)</b></sub></p>
+<p align="center"><sub><b>Completed · Delivered for ATB Finance (Arab Tunisian Bank)</b></sub></p>
 
 <p align="center">
   <!-- TODO: Replace with a real demo GIF (e.g. assets/tgap-demo.gif) -->
-  <img src="https://placehold.co/620x350/F6F8FA/0969DA.png?text=T+GAP+Demo+Coming+Soon" alt="T GAP demo placeholder" width="100%"/>
+  <img src="https://placehold.co/620x350/F6F8FA/0969DA.png?text=T+GAP+%E2%80%94+Shipped+for+ATB+Finance" alt="T GAP demo placeholder" width="100%"/>
 </p>
 
-A web and mobile application that locates every ATB ATM in real time on OpenStreetMap. Features offline-first maps built with MBTiles + SQLite and an integrated AI chatbot that answers in Tunisian dialect.
+A web and mobile application that located every ATB ATM in real time on OpenStreetMap. Shipped with offline-first maps built on MBTiles + SQLite and an integrated AI chatbot answering in Tunisian dialect — my proof that data, maps, and AI belong in the same product.
 
 <p align="center">
   <a href="https://flutter.dev"><img src="https://skillicons.dev/icons?i=flutter" width="32" alt="Flutter"/></a>&nbsp;
@@ -96,32 +124,6 @@ A web and mobile application that locates every ATB ATM in real time on OpenStre
 </p>
 
 </td>
-<td width="50%" valign="top">
-
-<h3 align="center">AI Car Advisor</h3>
-<p align="center"><sub><b>LLM-driven car recommendation platform</b></sub></p>
-
-<p align="center">
-  <!-- TODO: Replace with a real demo GIF (e.g. assets/car-advisor-demo.gif) -->
-  <img src="https://placehold.co/620x350/F6F8FA/0969DA.png?text=AI+Car+Advisor+Demo+Coming+Soon" alt="AI Car Advisor demo placeholder" width="100%"/>
-</p>
-
-An AI-powered advisor that matches users with the right car based on budget, needs, and specifications. Built with a Flutter front end and a FastAPI + Python backend handling the recommendation engine.
-
-<p align="center">
-  <a href="https://flutter.dev"><img src="https://skillicons.dev/icons?i=flutter" width="32" alt="Flutter"/></a>&nbsp;
-  <a href="https://fastapi.tiangolo.com"><img src="https://skillicons.dev/icons?i=fastapi" width="32" alt="FastAPI"/></a>&nbsp;
-  <a href="https://www.python.org"><img src="https://skillicons.dev/icons?i=py" width="32" alt="Python"/></a>
-</p>
-
-<p align="center">
-  <!-- TODO: point these at the repo / live demo once published -->
-  <a href="https://github.com/1hamzaachour-ai?tab=repositories"><img src="https://img.shields.io/badge/Repository-24292F?style=for-the-badge&logo=github&logoColor=white" alt="Repository"/></a>
-  &nbsp;
-  <a href="https://github.com/1hamzaachour-ai?tab=repositories"><img src="https://img.shields.io/badge/Live_Demo-0969DA?style=for-the-badge&logoColor=white" alt="Live demo"/></a>
-</p>
-
-</td>
 </tr>
 </table>
 
@@ -129,8 +131,8 @@ An AI-powered advisor that matches users with the right car based on budget, nee
 
 <br/>
 
-[![T GAP Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=1hamzaachour-ai&repo=ATB-ATM-LOCATOR-&bg_color=FFFFFF&title_color=0969DA&icon_color=0969DA&text_color=24292F&border_color=D0D7DE&border_radius=8)](https://github.com/1hamzaachour-ai/ATB-ATM-LOCATOR-)
 [![Choufli Data Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=1hamzaachour-ai&repo=choufli-data&bg_color=FFFFFF&title_color=0969DA&icon_color=0969DA&text_color=24292F&border_color=D0D7DE&border_radius=8)](https://github.com/1hamzaachour-ai/choufli-data)
+[![T GAP Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=1hamzaachour-ai&repo=ATB-ATM-LOCATOR-&bg_color=FFFFFF&title_color=0969DA&icon_color=0969DA&text_color=24292F&border_color=D0D7DE&border_radius=8)](https://github.com/1hamzaachour-ai/ATB-ATM-LOCATOR-)
 
 </div>
 
@@ -165,6 +167,6 @@ An AI-powered advisor that matches users with the right car based on budget, nee
 
 <br/><br/>
 
-<sub>Open to collaborations, freelance projects, and full-stack opportunities.</sub>
+<sub>Open to collaborations and opportunities in data analytics, AI, and business intelligence.</sub>
 
 </div>
