@@ -34,38 +34,47 @@ I'm a data and AI developer based in **Tunisia**. I build analytics products peo
 
 ## Tech Stack
 
-<sub>*Click any icon to visit the official website.*</sub>
+<div align="center">
+
+<sub><i>Click any icon to visit the official website.</i></sub>
 
 **Data, AI & Dashboards**
 
-<p>
-  <a href="https://streamlit.io"><img src="https://img.shields.io/badge/Streamlit-0969DA?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit"/></a>
-  <a href="https://pandas.pydata.org"><img src="https://img.shields.io/badge/Pandas-0969DA?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"/></a>
-  <a href="https://numpy.org"><img src="https://img.shields.io/badge/NumPy-0969DA?style=flat-square&logo=numpy&logoColor=white" alt="NumPy"/></a>
-  <a href="https://plotly.com"><img src="https://img.shields.io/badge/Plotly-0969DA?style=flat-square&logo=plotly&logoColor=white" alt="Plotly"/></a>
-  <a href="https://ai.google.dev"><img src="https://img.shields.io/badge/Google_Gemini-0969DA?style=flat-square&logo=googlegemini&logoColor=white" alt="Google Gemini"/></a>
-  <a href="https://groq.com"><img src="https://img.shields.io/badge/Groq-0969DA?style=flat-square&logoColor=white" alt="Groq"/></a>
-  <a href="https://www.llama.com"><img src="https://img.shields.io/badge/LLaMA_3.1-0969DA?style=flat-square&logo=meta&logoColor=white" alt="Meta LLaMA"/></a>
-</p>
+<table align="center">
+<tr>
+<td align="center" width="96"><a href="https://streamlit.io"><img src="https://go-skill-icons.vercel.app/api/icons?i=streamlit" width="64" alt="Streamlit"/></a><br/><sub><b>Streamlit</b></sub></td>
+<td align="center" width="96"><a href="https://pandas.pydata.org"><img src="https://go-skill-icons.vercel.app/api/icons?i=pandas" width="64" alt="Pandas"/></a><br/><sub><b>Pandas</b></sub></td>
+<td align="center" width="96"><a href="https://numpy.org"><img src="https://go-skill-icons.vercel.app/api/icons?i=numpy" width="64" alt="NumPy"/></a><br/><sub><b>NumPy</b></sub></td>
+<td align="center" width="96"><a href="https://plotly.com"><img src="https://go-skill-icons.vercel.app/api/icons?i=plotly" width="64" alt="Plotly"/></a><br/><sub><b>Plotly</b></sub></td>
+<td align="center" width="96"><a href="https://ai.google.dev"><img src="https://go-skill-icons.vercel.app/api/icons?i=gemini" width="64" alt="Google Gemini"/></a><br/><sub><b>Gemini</b></sub></td>
+<td align="center" width="96"><a href="https://groq.com"><img src="https://go-skill-icons.vercel.app/api/icons?i=groq" width="64" alt="Groq"/></a><br/><sub><b>Groq</b></sub></td>
+</tr>
+</table>
 
 **Languages & Backend**
 
-<p>
-  <a href="https://www.python.org"><img src="https://skillicons.dev/icons?i=py" width="48" alt="Python"/></a>&nbsp;
-  <a href="https://fastapi.tiangolo.com"><img src="https://skillicons.dev/icons?i=fastapi" width="48" alt="FastAPI"/></a>&nbsp;
-  <a href="https://www.sqlite.org"><img src="https://skillicons.dev/icons?i=sqlite" width="48" alt="SQLite"/></a>&nbsp;
-  <a href="https://flutter.dev"><img src="https://skillicons.dev/icons?i=flutter" width="48" alt="Flutter"/></a>&nbsp;
-  <a href="https://dart.dev"><img src="https://skillicons.dev/icons?i=dart" width="48" alt="Dart"/></a>
-</p>
+<table align="center">
+<tr>
+<td align="center" width="96"><a href="https://www.python.org"><img src="https://go-skill-icons.vercel.app/api/icons?i=python" width="64" alt="Python"/></a><br/><sub><b>Python</b></sub></td>
+<td align="center" width="96"><a href="https://fastapi.tiangolo.com"><img src="https://go-skill-icons.vercel.app/api/icons?i=fastapi" width="64" alt="FastAPI"/></a><br/><sub><b>FastAPI</b></sub></td>
+<td align="center" width="96"><a href="https://www.sqlite.org"><img src="https://go-skill-icons.vercel.app/api/icons?i=sqlite" width="64" alt="SQLite"/></a><br/><sub><b>SQLite</b></sub></td>
+<td align="center" width="96"><a href="https://flutter.dev"><img src="https://go-skill-icons.vercel.app/api/icons?i=flutter" width="64" alt="Flutter"/></a><br/><sub><b>Flutter</b></sub></td>
+<td align="center" width="96"><a href="https://dart.dev"><img src="https://go-skill-icons.vercel.app/api/icons?i=dart" width="64" alt="Dart"/></a><br/><sub><b>Dart</b></sub></td>
+</tr>
+</table>
 
 **Tools**
 
-<p>
-  <a href="https://git-scm.com"><img src="https://skillicons.dev/icons?i=git" width="48" alt="Git"/></a>&nbsp;
-  <a href="https://github.com"><img src="https://skillicons.dev/icons?i=github" width="48" alt="GitHub"/></a>&nbsp;
-  <a href="https://code.visualstudio.com"><img src="https://skillicons.dev/icons?i=vscode" width="48" alt="Visual Studio Code"/></a>&nbsp;
-  <a href="https://www.postman.com"><img src="https://skillicons.dev/icons?i=postman" width="48" alt="Postman"/></a>
-</p>
+<table align="center">
+<tr>
+<td align="center" width="96"><a href="https://git-scm.com"><img src="https://go-skill-icons.vercel.app/api/icons?i=git" width="64" alt="Git"/></a><br/><sub><b>Git</b></sub></td>
+<td align="center" width="96"><a href="https://github.com"><img src="https://go-skill-icons.vercel.app/api/icons?i=github" width="64" alt="GitHub"/></a><br/><sub><b>GitHub</b></sub></td>
+<td align="center" width="96"><a href="https://code.visualstudio.com"><img src="https://go-skill-icons.vercel.app/api/icons?i=vscode" width="64" alt="Visual Studio Code"/></a><br/><sub><b>VS Code</b></sub></td>
+<td align="center" width="96"><a href="https://www.postman.com"><img src="https://go-skill-icons.vercel.app/api/icons?i=postman" width="64" alt="Postman"/></a><br/><sub><b>Postman</b></sub></td>
+</tr>
+</table>
+
+</div>
 
 ---
 
@@ -85,10 +94,10 @@ I'm a data and AI developer based in **Tunisia**. I build analytics products peo
 A complete retail analytics application built for the Tunisian market — TND pricing, real TVA brackets, Ramadan & Aïd seasonality, local payment methods. Features **Sami**, an AI business consultant that answers questions about the live, filtered dashboard data in Tunisian Derja (Arabic script and Arabizi).
 
 <p align="center">
-  <a href="https://www.python.org"><img src="https://skillicons.dev/icons?i=py" width="32" alt="Python"/></a>&nbsp;
-  <a href="https://streamlit.io"><img src="https://img.shields.io/badge/Streamlit-24292F?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit"/></a>
-  <a href="https://plotly.com"><img src="https://img.shields.io/badge/Plotly-24292F?style=flat-square&logo=plotly&logoColor=white" alt="Plotly"/></a>
-  <a href="https://ai.google.dev"><img src="https://img.shields.io/badge/Gemini-24292F?style=flat-square&logo=googlegemini&logoColor=white" alt="Google Gemini"/></a>
+  <a href="https://www.python.org"><img src="https://go-skill-icons.vercel.app/api/icons?i=python" width="36" alt="Python"/></a>&nbsp;
+  <a href="https://streamlit.io"><img src="https://go-skill-icons.vercel.app/api/icons?i=streamlit" width="36" alt="Streamlit"/></a>&nbsp;
+  <a href="https://plotly.com"><img src="https://go-skill-icons.vercel.app/api/icons?i=plotly" width="36" alt="Plotly"/></a>&nbsp;
+  <a href="https://ai.google.dev"><img src="https://go-skill-icons.vercel.app/api/icons?i=gemini" width="36" alt="Google Gemini"/></a>
 </p>
 
 <p align="center">
@@ -113,9 +122,9 @@ A complete retail analytics application built for the Tunisian market — TND pr
 A web and mobile application that located every ATB ATM in real time on OpenStreetMap. Shipped with offline-first maps built on MBTiles + SQLite and an integrated AI chatbot answering in Tunisian dialect — my proof that data, maps, and AI belong in the same product.
 
 <p align="center">
-  <a href="https://flutter.dev"><img src="https://skillicons.dev/icons?i=flutter" width="32" alt="Flutter"/></a>&nbsp;
-  <a href="https://www.sqlite.org"><img src="https://skillicons.dev/icons?i=sqlite" width="32" alt="SQLite"/></a>&nbsp;
-  <a href="https://www.llama.com"><img src="https://img.shields.io/badge/LLaMA_3.1-24292F?style=flat-square&logo=meta&logoColor=white" alt="Meta LLaMA"/></a>
+  <a href="https://flutter.dev"><img src="https://go-skill-icons.vercel.app/api/icons?i=flutter" width="36" alt="Flutter"/></a>&nbsp;
+  <a href="https://www.sqlite.org"><img src="https://go-skill-icons.vercel.app/api/icons?i=sqlite" width="36" alt="SQLite"/></a>&nbsp;
+  <a href="https://groq.com"><img src="https://go-skill-icons.vercel.app/api/icons?i=groq" width="36" alt="Groq (LLaMA 3.1)"/></a>
 </p>
 
 <p align="center">
