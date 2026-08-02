@@ -26,6 +26,7 @@
 I'm a data and AI developer based in **Tunisia**. I build analytics products people actually use — interactive **dashboards**, **AI agents** that understand local context, and the data pipelines behind them.
 
 - Currently focused on **Choufli Data** — a Tunisian retail analytics dashboard featuring *Sami*, an AI business consultant that answers questions about live dashboard data in Tunisian Derja
+- Most recently shipped **Tunisian Automobile Market Analyzer** — an end-to-end BI stack (ETL, PostgreSQL star-schema warehouse, FastAPI) with a trilingual chatbot answering in Derja, French, and English
 - Shipped **T GAP** — a web & mobile ATM locator delivered for **ATB Finance** (Arab Tunisian Bank)
 - Full-stack background (Flutter, FastAPI) for when a data product needs to become an app
 - Open to collaborations and opportunities in data analytics, AI, and BI
@@ -57,6 +58,7 @@ I'm a data and AI developer based in **Tunisia**. I build analytics products peo
 <tr>
 <td align="center" width="96"><a href="https://www.python.org"><img src="https://go-skill-icons.vercel.app/api/icons?i=python" width="64" alt="Python"/></a><br/><sub><b>Python</b></sub></td>
 <td align="center" width="96"><a href="https://fastapi.tiangolo.com"><img src="https://go-skill-icons.vercel.app/api/icons?i=fastapi" width="64" alt="FastAPI"/></a><br/><sub><b>FastAPI</b></sub></td>
+<td align="center" width="96"><a href="https://www.postgresql.org"><img src="https://go-skill-icons.vercel.app/api/icons?i=postgresql" width="64" alt="PostgreSQL"/></a><br/><sub><b>PostgreSQL</b></sub></td>
 <td align="center" width="96"><a href="https://www.sqlite.org"><img src="https://go-skill-icons.vercel.app/api/icons?i=sqlite" width="64" alt="SQLite"/></a><br/><sub><b>SQLite</b></sub></td>
 <td align="center" width="96"><a href="https://flutter.dev"><img src="https://go-skill-icons.vercel.app/api/icons?i=flutter" width="64" alt="Flutter"/></a><br/><sub><b>Flutter</b></sub></td>
 <td align="center" width="96"><a href="https://dart.dev"><img src="https://go-skill-icons.vercel.app/api/icons?i=dart" width="64" alt="Dart"/></a><br/><sub><b>Dart</b></sub></td>
@@ -71,6 +73,7 @@ I'm a data and AI developer based in **Tunisia**. I build analytics products peo
 <td align="center" width="96"><a href="https://github.com"><img src="https://go-skill-icons.vercel.app/api/icons?i=github" width="64" alt="GitHub"/></a><br/><sub><b>GitHub</b></sub></td>
 <td align="center" width="96"><a href="https://code.visualstudio.com"><img src="https://go-skill-icons.vercel.app/api/icons?i=vscode" width="64" alt="Visual Studio Code"/></a><br/><sub><b>VS Code</b></sub></td>
 <td align="center" width="96"><a href="https://www.postman.com"><img src="https://go-skill-icons.vercel.app/api/icons?i=postman" width="64" alt="Postman"/></a><br/><sub><b>Postman</b></sub></td>
+<td align="center" width="96"><a href="https://www.docker.com"><img src="https://go-skill-icons.vercel.app/api/icons?i=docker" width="64" alt="Docker"/></a><br/><sub><b>Docker</b></sub></td>
 </tr>
 </table>
 
@@ -135,6 +138,32 @@ A web and mobile application that located every ATB ATM in real time on OpenStre
 
 </td>
 </tr>
+<tr>
+<td colspan="2" valign="top">
+
+<h3 align="center">Tunisian Automobile Market Analyzer</h3>
+<p align="center"><sub><b>BI stack for the used-car market — ETL, star-schema warehouse, trilingual chatbot</b></sub></p>
+
+<p align="center">
+  <a href="https://github.com/1hamzaachour-ai/tunisian-car-market-analyzer"><img src="https://raw.githubusercontent.com/1hamzaachour-ai/tunisian-car-market-analyzer/main/assets/screenshots/hero-preview.png" alt="Tunisian Automobile Market Analyzer — web app screenshot" width="100%"/></a>
+</p>
+
+An end-to-end analytics platform for the Tunisian used-car market: a pandas + SQLAlchemy ETL pipeline loads a PostgreSQL star schema (`fact_car_listings`, `dim_car_model`, `dim_seller_location`, `dim_date`), served through a FastAPI backend with a rule-based chatbot that detects and replies in **Tunisian Derja, French, or English** — plus a built-in web UI with live stat tiles and chat, no external LLM required.
+
+<p align="center">
+  <a href="https://www.python.org"><img src="https://go-skill-icons.vercel.app/api/icons?i=python" width="36" alt="Python"/></a>&nbsp;
+  <a href="https://fastapi.tiangolo.com"><img src="https://go-skill-icons.vercel.app/api/icons?i=fastapi" width="36" alt="FastAPI"/></a>&nbsp;
+  <a href="https://www.postgresql.org"><img src="https://go-skill-icons.vercel.app/api/icons?i=postgresql" width="36" alt="PostgreSQL"/></a>&nbsp;
+  <a href="https://pandas.pydata.org"><img src="https://go-skill-icons.vercel.app/api/icons?i=pandas" width="36" alt="Pandas"/></a>&nbsp;
+  <a href="https://www.docker.com"><img src="https://go-skill-icons.vercel.app/api/icons?i=docker" width="36" alt="Docker"/></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/1hamzaachour-ai/tunisian-car-market-analyzer"><img src="https://img.shields.io/badge/Repository-24292F?style=for-the-badge&logo=github&logoColor=white" alt="Repository"/></a>
+</p>
+
+</td>
+</tr>
 </table>
 
 <div align="center">
@@ -143,6 +172,7 @@ A web and mobile application that located every ATB ATM in real time on OpenStre
 
 [![Choufli Data Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=1hamzaachour-ai&repo=choufli-data&bg_color=FFFFFF&title_color=0969DA&icon_color=0969DA&text_color=24292F&border_color=D0D7DE&border_radius=8)](https://github.com/1hamzaachour-ai/choufli-data)
 [![T GAP Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=1hamzaachour-ai&repo=ATB-ATM-LOCATOR-&bg_color=FFFFFF&title_color=0969DA&icon_color=0969DA&text_color=24292F&border_color=D0D7DE&border_radius=8)](https://github.com/1hamzaachour-ai/ATB-ATM-LOCATOR-)
+[![Tunisian Car Market Analyzer Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=1hamzaachour-ai&repo=tunisian-car-market-analyzer&bg_color=FFFFFF&title_color=0969DA&icon_color=0969DA&text_color=24292F&border_color=D0D7DE&border_radius=8)](https://github.com/1hamzaachour-ai/tunisian-car-market-analyzer)
 
 </div>
 
