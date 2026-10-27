@@ -1,0 +1,7 @@
+# Local only: the ASCII portrait / Tunisia map (prep_photo, make_ascii_svg, make_tunisia_map).
+# Tested on Python 3.11 with pillow 13.0, numpy 2.4, opencv-python-headless 5.0, rembg 2.0.86.
+-r requirements.txt
+pillow>=11
+numpy>=2
+opencv-python-headless>=4.10
+rembg[cpu]>=2.0.60

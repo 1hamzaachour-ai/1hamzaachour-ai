@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+
+# Photos stay on your machine: only the generated ASCII SVG gets published.
+/source-prepped.png
+/*.jpg
+/*.jpeg
+/*.png
+/*.heic
+/*.webp
